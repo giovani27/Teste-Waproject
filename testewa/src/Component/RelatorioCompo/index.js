@@ -12,7 +12,7 @@ import Button from "@mui/material/Button";
 
 function RelatorioCompo({ Question, QuantAcertos }) {
   return (
-    <div>
+    <div style={{ color: "white" }}>
       <TableContainer component={Paper} className={stylesTela.Table}>
         <Table sx={{ minWidth: 650 }} size="small" aria-label="a dense table">
           <TableHead>
