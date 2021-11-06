@@ -1,6 +1,9 @@
 .Table {
   margin-top: 50px;
 }
+.main {
+  color: white;
+}
 
 .Title {
   margin-top: 10px;
@@ -23,7 +26,7 @@
   font-weight: 500;
 }
 .HeaderTable {
-  background-color: #000000;
+  background-color: gray;
   color: white;
   border: 1px solid white;
   font-size: 20px;
